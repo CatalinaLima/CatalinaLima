@@ -18,7 +18,6 @@ As an architectural professional making a career shift into Full Stack Developme
     <img src="https://img.shields.io/badge/HTML5-E34F26" />
     <img src="https://img.shields.io/badge/CSS-1572B6" />
     <img src="https://img.shields.io/badge/REACTJS-61DAFB" />
-    <img src="https://img.shields.io/badge/VUEJS-41B883" />
     <img src="https://img.shields.io/badge/NODEJS-8CC84B" />
     <img src="https://img.shields.io/badge/BOOSTRAP-563D7C" />
   </div>
