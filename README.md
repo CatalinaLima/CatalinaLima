@@ -6,7 +6,6 @@ As an architectural professional making a career shift into Full Stack Developme
 ### About me
 
 - 💻 **FrontEnd Development**  
-- 🚀 **BackEnd Development** 
 - 🛠️ **I am currently involved in the development of web applications across diverse industries**
 - 📚 **Currently learning UX/UI** 
 - 🤝 **I am a quick learner, adept at clear communication, and thrive as a problem solver**
